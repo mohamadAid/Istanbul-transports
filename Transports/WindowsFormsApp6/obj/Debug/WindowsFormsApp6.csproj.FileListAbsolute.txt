@@ -1,0 +1,15 @@
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.BlueCardForm.resources
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.ElectronicCardForm.resources
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.IstanbulCardForm.resources
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.CardsList.resources
+C:\Users\Eka-g\source\repos\Transports\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Transmission.resources
